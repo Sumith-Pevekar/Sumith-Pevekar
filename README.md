@@ -14,7 +14,7 @@ Joined Github **4** years ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Keras, Sci-kit learn, Express,<br /> React, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Python, Keras, Sci-kit learn, Express, React, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently expanding my skills of ML.
 - 👨🏻‍💻 &nbsp; I have two Github accounts and my projects are available on both Accounts Account 1: [Github](https://github.com/Sumith-Pevekar) and Account 2: [Github](https://github.com/SumithPevekar).
 - 💬 &nbsp; Ask me about anything here! I am happy to help.
