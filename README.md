@@ -16,7 +16,7 @@ Joined Github **4** years ago.
 
 - 🛠 &nbsp; I’m currently working with Python, Keras, Sci-kit learn, Express,<br /> React, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently expanding my skills of ML.
-- 👨🏻‍💻 &nbsp; All of my projects are available on two Github Accounts Account 1:[Github](https://github.com/Sumith-Pevekar) and Account 2:[Github](https://github.com/SumithPevekar).
+- 👨🏻‍💻 &nbsp; I have two Github accounts and my projects are available on both Accounts Account 1: [Github](https://github.com/Sumith-Pevekar) and Account 2: [Github](https://github.com/SumithPevekar).
 - 💬 &nbsp; Ask me about anything here! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pevekar.sumith73@gmail.com.
