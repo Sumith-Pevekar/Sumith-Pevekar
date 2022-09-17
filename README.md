@@ -44,7 +44,6 @@ Joined Github **4** years ago.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Projects and Dev Stuffs:
 
  
 <details>	
@@ -57,7 +56,6 @@ Joined Github **4** years ago.
 	    <li><b>Code Editor:</b> VSCode - One of the best editor.</li>
 	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
 	    <br />
-
 	</ul>	
 </details>
 
