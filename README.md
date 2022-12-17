@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm a graduate student pursuing my Master's in Computer Science 🎓 from  University of Southern California🏛. I'm a passionate learner  and tech enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Machine Learning, Data Science 🕸️ and Web Development 🤓.
+I'm a graduate student pursuing my Master's in Computer Science 🎓 from  University of Southern California🏛. I'm a passionate learner  and tech enthusiast who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Machine Learning, Data Science 🤓 and Full Stack Development 🕸️.
 
 Joined Github **4** years ago.
 
