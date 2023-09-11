@@ -50,7 +50,7 @@ Joined Github **4** years ago.
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows </li>
-	    <li><b>Laptop: </b> HP Pavilion (i5)</li>
+	    <li><b>Laptop: </b> HP Pavilion </li>
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - One of the best editor.</li>
 	    <li><b>To Stay Updated:</b> Linkedin and Twitter.</li>
