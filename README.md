@@ -19,7 +19,6 @@ Joined Github **4** years ago.
 - 💬 &nbsp; Ask me about anything here! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pevekar@usc.edu.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Sumith-Pevekar/Sumith-Pevekar/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
